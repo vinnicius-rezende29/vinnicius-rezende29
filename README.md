@@ -2,8 +2,7 @@
 
 Meu nome é Vinnicius Rezende e eu sou um Desenvolvedor Fullstack em início de carreira.
 
-Sou apaixonado por criar experiências digitais incríveis e resolver problemas complexos por meio da tecnologia. Com um conhecimento de tecnologias front-end e back-end, posso projetar e desenvolver soluções web completas e escaláveis do início ao fim.
-Estou sempre procurando novas tecnologias e tendências para aprimorar minhas habilidades. Acredito no uso da tecnologia para criar um futuro melhor e mais sustentável, adoro colaborar com outras pessoas para alcançar objetivos comuns.
+Graduação em andamento de Engenharia de software e Análise de desenvolvimento de sistema, conhecimento em HTML e CSS e python, desenvolvimento frontend e Backend, Frameworks, bibliotecas, Banco de Dados, arquitetura de Software e Design Patterns, Versionamento e Controle de Código. busco uma oportunidade de estágio na área para desenvolver minhas habilidades e contribuir com o crescimento da empresa.
 
 Habilidades:
 
